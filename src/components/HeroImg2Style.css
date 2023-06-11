@@ -25,9 +25,8 @@
     align-items: center;
 }
 .heading p{
-    width: 50%;
+    width: 80%;
     color: rgb(35, 99, 113);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-top: 1rem;
     
 }
@@ -37,8 +36,10 @@
 
 }
 .hero-img p{
-    font-size: 1.4rem;
-    text-align: center;
+    font-size: 2rem;
+    text-align:center;
+    margin: 0;
+    padding: 0;
 
 }
 
@@ -47,4 +48,17 @@
         font-size: 2rem;
     
     }
+    .heading p{
+        width: 90%;
+        margin-top: 06rem;
+        
+    }
+    .hero-img p{
+        font-size: 1.8rem;
+        text-align:center;
+        margin: 0;
+        padding: 0;
+    
+    }
+    
 }

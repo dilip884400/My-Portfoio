@@ -18,7 +18,7 @@ const ProjectCardData = [
         text1:"This project aims to design and develop a modern and user-friendly website for a gym.",
         text2:"Tech stack used : HTML, CSS, React.js, JavaScript, React-router-dom",
         view:"https://gym-website-13y6.onrender.com/",
-        source:"https://github.com/the-chand-babu/GoogleDoc.git"
+        source:"https://github.com/the-chand-babu/Project1_Gym.git"
     },
     {
         imgsrc:pro3,
@@ -26,15 +26,15 @@ const ProjectCardData = [
         text1:"This project aims to design and develop task management website.",
         text2:"Tech stack used : HTML, CSS, React, JavaScript, React-router-dom, Redux, Material-UI, React Beautiful DND.",
         view:"https://kanban-ikee.onrender.com/",
-        source:"https://github.com/the-chand-babu/GoogleDoc.git"
+        source:"https://github.com/Ankush123rai/React-Kanban_Board.git"
     },
     {
         imgsrc:pro4,
         title:"Twitter Clone",
         text1:"This project purpose is to design the Front-end of a Twitter website. ",
         text2:"Tech stack used : HTML, CSS, React.js, JavaScript, React-router-dom, Redux, Material-UI.",
-        view:"https://google-doc-3sir.onrender.com/",
-        source:"https://github.com/the-chand-babu/GoogleDoc.git"
+        view:"https://twitter-clone-777.onrender.com/",
+        source:"https://github.com/dilip884400/Twitter_clone.git"
     }
 ];
 

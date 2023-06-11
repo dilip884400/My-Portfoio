@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 import {
   FaBars, FaTimes
 } from 'react-icons/fa'
+import Resume from '../assets/Dilip_Lovevanshi_FunctionUp.pdf'
 import { useState } from 'react'
 
 function Navbar() {
@@ -38,6 +39,11 @@ window.addEventListener("scroll", changeColor)
         <li>
             <Link to="/contactUs">Contact</Link>
         </li>
+        <li>
+            <a href={Resume} target="_blank" rel="noreferrer"
+          title="resume">Resume</a>
+        </li>
+          
         
       </ul>
       <divc className="hamburger" onClick={handleClick}>
