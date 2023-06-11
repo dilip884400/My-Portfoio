@@ -11,7 +11,7 @@ function HeroImg() {
       </div>
       <div className='content1'>
     <p>Hi, I am Dilip Lovevanshi </p>
-    <h1>React Devloper</h1>
+    <h1>React Developer</h1>
     <div>
         <Link to="/project" className='btn'>Projects</Link>
         <Link to="/about" className='btn btn-light'>About</Link>
