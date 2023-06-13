@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import {
   FaBars, FaTimes
 } from 'react-icons/fa'
-import Resume from '../assets/Dilip_Lovevanshi_FunctionUp.pdf'
+import Resume from '../assets/Dilip_Lovevanshi_Personal-Resume.pdf'
 import { useState } from 'react'
 
 function Navbar() {
