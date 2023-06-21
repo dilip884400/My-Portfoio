@@ -4,7 +4,8 @@ import { Link } from 'react-router-dom'
 import {
   FaBars, FaTimes
 } from 'react-icons/fa'
-import Resume from '../assets/Dilip_Lovevanshi_Resume_Resume_Personal_123.pdf'
+import Resume from '../assets/Dilip-Lovevanshi-Resume-Resume.pdf'
+
 
 import { useState } from 'react'
 
