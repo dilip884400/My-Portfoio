@@ -192,7 +192,7 @@ My name is Dilip Lovevanshi, and I am 22 years old. Originally from Rajgarh, Mad
                 <div className='exp-coloum'>
                     <h3>FunctionUp (Front-End Developer Trainee)</h3>
                     <span className='exp-loc'>-Bengaluru, Karnataka</span>
-                    <span className='exp-dur'>Feb 2023 - presnet</span>
+                    <span className='exp-dur'>Feb 2023 - present</span>
                     <ul className='exp-info'><li>Trained in Frontend Development using HTML, CSS, JavaScript and React</li>
 <li>Skilled in teamwork, owning tasks and timely deliveries.</li>
 <li>Work on real life projects given by the mentors.</li></ul>
