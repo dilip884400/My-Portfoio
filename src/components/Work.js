@@ -6,7 +6,7 @@ import WorkCard from './WorkCard'
 
 function Work() {
   return (
-    <div className='work-container'>
+    
       <div className='project-container'>
       {ProjectCardData.map((val, index)=>{
         return(
@@ -21,7 +21,7 @@ function Work() {
         )
       })}
       </div>
-    </div>
+   
   )
 }
 
