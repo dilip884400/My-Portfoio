@@ -177,7 +177,7 @@
 .exp-info{
     color: azure;
     margin-left: 1.5rem;
-    margin-top: 2rem;
+    margin-top: 0.8rem;
     list-style:disc;
 }
 
@@ -187,6 +187,9 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
+}
+.exp-coloum{
+    margin-bottom: 3rem;
 }
 
 .box {

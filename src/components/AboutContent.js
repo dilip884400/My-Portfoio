@@ -14,14 +14,14 @@ function AboutContent() {
         <div className="row">
           <div className="coloum">
             <div class="container">
-  <div class="box">
-    <div class="spin-container">
-      <div class="shape">
-        <div class="bd"></div>
-      </div>
-     </div>
-  </div>
-</div>
+              <div class="box">
+                <div class="spin-container">
+                  <div class="shape">
+                    <div class="bd"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
 
           <div className="coloum">
@@ -78,15 +78,15 @@ function AboutContent() {
                 <br />
 
                 <span>
-                  After graduating with a BCA degree, I couldn't continue my
-                  studies due to severe financial crises at home. To address
-                  this, I turned to farming. Transitioning from being a BCA
-                  graduate to a farmer was challenging. However, my passion for
-                  problem-solving persisted, leading me to discover the world of
-                  tech industries and their workings. While browsing numerous
-                  skill-building websites and watching countless tutorial
-                  videos, I felt overwhelmed and directionless. But joining the
-                  FunctionUp bootcamp turned out to be my best decision so far.
+                  After completing my BCA degree, I faced severe financial
+                  crises at home, which hindered my ability to pursue further
+                  studies. To address this situation, I decided to venture into
+                  farming. Transitioning from a BCA graduate to a farmer was
+                  quite challenging. However, my passion for problem-solving
+                  remained strong, and it eventually led me to explore the world
+                  of tech industries and their operations. I took the initiative
+                  to learn web development from scratch, and now, I am working
+                  as a web developer at Amika Software.
                 </span>
               </div>
 
@@ -230,7 +230,7 @@ function AboutContent() {
                 <div className="exp-coloum">
                   <h3>FunctionUp (Front-End Developer Trainee)</h3>
                   <span className="exp-loc">-Bengaluru, Karnataka</span>
-                  <span className="exp-dur">Feb 2023 - presnet</span>
+                  <span className="exp-dur">Feb 2023 - Jul 2023</span>
                   <ul className="exp-info">
                     <li>
                       Trained in Frontend Development using HTML, CSS,
@@ -240,6 +240,23 @@ function AboutContent() {
                       Skilled in teamwork, owning tasks and timely deliveries.
                     </li>
                     <li>Work on real life projects given by the mentors.</li>
+                  </ul>
+                </div>
+                <div className="exp-coloum">
+                  <h3>Amika Softwares (Full Stack Developer Intern)</h3>
+                  <span className="exp-loc">-Nagpur, Maharashtra</span>
+                  <span className="exp-dur">Jul 2023 - present </span>
+                  <ul className="exp-info">
+                    <li>
+                      I possess the ability to handle pressure effectively while
+                      working on diverse company projects.
+                    </li>
+                    <li>
+                      My adaptability, teamwork, ownership, and timely
+                      deliveries make me a valuable asset to any project or
+                      team, and I am eager to continue contributing positively
+                      to the success of the company's endeavors.
+                    </li>
                   </ul>
                 </div>
               </div>
